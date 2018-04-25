@@ -1,0 +1,37 @@
+c:\users\johnny\documents\visual studio 2015\Projects\SimpleSmtpClient\SimpleSmtpClient\bin\Debug\SimpleSmtpClient.exe
+c:\users\johnny\documents\visual studio 2015\Projects\SimpleSmtpClient\SimpleSmtpClient\bin\Debug\SimpleSmtpClient.pdb
+c:\users\johnny\documents\visual studio 2015\Projects\SimpleSmtpClient\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.mainForm.resources
+c:\users\johnny\documents\visual studio 2015\Projects\SimpleSmtpClient\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.Properties.Resources.resources
+c:\users\johnny\documents\visual studio 2015\Projects\SimpleSmtpClient\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.csproj.GenerateResource.Cache
+c:\users\johnny\documents\visual studio 2015\Projects\SimpleSmtpClient\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.exe
+c:\users\johnny\documents\visual studio 2015\Projects\SimpleSmtpClient\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.pdb
+c:\users\johnny\documents\visual studio 2015\Projects\SimpleSmtpClient\SimpleSmtpClient\bin\Debug\SimpleSmtpClient.exe.config
+C:\Users\User\Downloads\SMTP Client\SimpleSMTPClient-master\source\SimpleSmtpClient\bin\Debug\SimpleSmtpClient.exe.config
+C:\Users\User\Downloads\SMTP Client\SimpleSMTPClient-master\source\SimpleSmtpClient\bin\Debug\SimpleSmtpClient.exe
+C:\Users\User\Downloads\SMTP Client\SimpleSMTPClient-master\source\SimpleSmtpClient\bin\Debug\SimpleSmtpClient.pdb
+C:\Users\User\Downloads\SMTP Client\SimpleSMTPClient-master\source\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.mainForm.resources
+C:\Users\User\Downloads\SMTP Client\SimpleSMTPClient-master\source\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.Properties.Resources.resources
+C:\Users\User\Downloads\SMTP Client\SimpleSMTPClient-master\source\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\SMTP Client\SimpleSMTPClient-master\source\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\SMTP Client\SimpleSMTPClient-master\source\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.exe
+C:\Users\User\Downloads\SMTP Client\SimpleSMTPClient-master\source\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.pdb
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\SimpleSmtpClient\bin\Debug\SimpleSmtpClient.exe.config
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\SimpleSmtpClient\bin\Debug\SimpleSmtpClient.exe
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\SimpleSmtpClient\bin\Debug\SimpleSmtpClient.pdb
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.mainForm.resources
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.Properties.Resources.resources
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.exe
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.pdb
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\Final\SimpleSmtpClient\bin\Debug\SimpleSmtpClient.exe.config
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\Final\SimpleSmtpClient\bin\Debug\SimpleSmtpClient.exe
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\Final\SimpleSmtpClient\bin\Debug\SimpleSmtpClient.pdb
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\Final\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\Final\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.mainForm.resources
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\Final\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.Properties.Resources.resources
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\Final\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\Final\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\Final\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.exe
+C:\Users\User\Desktop\4 сем\КСиС\Лабы\№4\Final\SimpleSmtpClient\obj\Debug\SimpleSmtpClient.pdb
